@@ -29,7 +29,7 @@ We have compiled four popular mod versions of Clash of Clans, all hosted on priv
 ## How to Download and Install CoC Mod APK
 
 1. **Enable Unknown Sources:** Go to your device’s Settings > Security and enable Unknown Sources to allow installations from third-party sources.
-2. **Download the APK File:** Choose your preferred mod version and [download it here](#).
+2. **Download the APK File:** Choose your preferred mod version and [download it here](https://clashofclansmodapk.info/).
 3. **Install the APK:** Open the downloaded file and follow the on-screen instructions.
 4. **Launch the Game:** Start the app and enjoy unlimited resources.
 
